@@ -1,13 +1,13 @@
 # Site settings
 title: Z' Blog
-SEOTitle: zyj356a的博客 | BY Blog
+SEOTitle: hentaitabako的博客 | BY Blog
 header-img: img/post-bg-desk.jpg
 email: zyj11790935793@gmail.com
 description: "keep forword, always."
-keyword: "BY, BY Blog, zyj356a的博客, zyj356a, 张, 前端, front end, JavaScript"
-url: "https://zyj356a.github.io/"          # your host, for absolute URL
+keyword: "BY, BY Blog, hentaitabako的博客, hentaitabako, 张, 前端, front end, JavaScript"
+url: "https://hentaitabako.github.io/"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/zyj356a/zyj356a.github.io.git" # you code repository
+github_repo: "https://github.com/hentaitabako/hentaitabako.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -18,7 +18,7 @@ sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's us
 
 # SNS settings
 RSS: false
-github_username:    zyj356a
+github_username:    hentaitabako
 
 # Build settings
 # from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
@@ -56,9 +56,9 @@ kramdown:
 #   enable: false    #是否开启Gitalk评论
 #   clientID: f2c84e7629bb1446c1a4                            #生成的clientID
 #   clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
-#   repo: zyj356a.github.io    #仓库名称
-#   owner: zyj356a    #github用户名
-#   admin: zyj356a
+#   repo: hentaitabako.github.io    #仓库名称
+#   owner: hentaitabako    #github用户名
+#   admin: hentaitabako
 #   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
