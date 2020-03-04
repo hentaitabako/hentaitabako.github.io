@@ -34,3 +34,6 @@ Temporary Items
 # debug file
 _site
 .jekyll-cache
+
+# vscode user config
+.vscode
